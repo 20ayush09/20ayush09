@@ -27,8 +27,9 @@ Welcome to my portfolio, where I document my [projects and case studies](https:/
 - **Currently Learning:** SQL, Python,C++,deeper financial theory
 
 ---
-##📱Social Media 
-[LinkedIn](https://www.linkedin.com/in/ayush-agarwal-9270672bb/)
+## 📱Social Media 
+
+-[LinkedIn](https://www.linkedin.com/in/ayush-agarwal-9270672bb/)
 
 
 *ACCA Student | Finance & Quant Enthusiast | Building practical financial analysis skills*
