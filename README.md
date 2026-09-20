@@ -1,4 +1,4 @@
-#*Intoducing Myself*
+# 👋 Introducing Myself
 
 <img width="1456" height="720" alt="image_5c31189d" src="https://github.com/user-attachments/assets/74d8ebd0-d0aa-479a-9842-5e42d89c6d1c" />
 
