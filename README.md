@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Introducing Myself
 
-<!--
-**20ayush09/20ayush09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1456" height="720" alt="image_ef5388c5" src="https://github.com/user-attachments/assets/1bc1e7e0-727b-492b-9f1f-3d22543c3363" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Ayush Agarwal. An ACCA student exploring the intersection of finance, quantitative analysis, and data-driven decision making.
+
+## 💼 What I Do
+
+- Building financial models and dashboards in Excel
+- Creating interactive visualizations with Power BI
+- Analyzing financial data to support business decisions
+- Exploring quantitative approaches to financial problems
+- Working through ACCA coursework while building practical skills
+
+## 📊 My Portfolio
+
+Welcome to my portfolio, where I document my [projects and case studies](https://github.com/your-username/Portfolio-Guide).
+
+## 🛠️ Tools & Skills
+
+- **Financial Analysis:** Advanced Excel (Pivot Tables, XLOOKUP, Financial Modelling, Charting)
+- **Business Intelligence:** Power BI (DAX, Data Modelling, Interactive Dashboards)
+- **Focus Areas:** Financial Analysis, Quantitative Analysis, Decision Support, Case Studies
+- **Currently Learning:** SQL, Python, deeper financial theory
+
+---
+
+*ACCA Student | Finance & Quant Enthusiast | Building practical financial analysis skills*
