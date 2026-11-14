@@ -1,4 +1,5 @@
-<div align="center"><img width="960" height="750" alt="ascii-card" src="https://github.com/user-attachments/assets/88f9c42f-2bff-458c-a860-9bdd3f8511b1" />
+
+<div align="center"><img width="960" height="750" alt="ascii-card" src="https://github.com/user-attachments/assets/f14a3a4a-11b6-47fa-8529-919db3fbc179" />
  </div>
 # 👋 Introducing Myself
 ---
