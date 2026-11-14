@@ -1,11 +1,13 @@
+<div align="center">
+
+<img src="./ascii-card.svg" alt="Ayush Agarwal – GitHub profile card" width="100%"/>
+
+</div>
+
 # 👋 Introducing Myself
 ---
 
-<img width="1456" height="720" alt="image_5c31189d" src="https://github.com/user-attachments/assets/74d8ebd0-d0aa-479a-9842-5e42d89c6d1c" />
-
-
-
-Hello, I'm Ayush Agarwal. An ACCA student exploring the intersection of finance, quantitative analysis, and data-driven decision making.
+Hello, I'm Ayush Agarwal. A quant-focused learner with interests in AI, finance, risk management, and quantitative finance.
 
 ## 💼 What I Do
 
@@ -13,7 +15,8 @@ Hello, I'm Ayush Agarwal. An ACCA student exploring the intersection of finance,
 - Creating interactive visualizations with Power BI
 - Analyzing financial data to support business decisions
 - Exploring quantitative approaches to financial problems
-- Working through ACCA coursework while building practical skills
+- Studying risk management and quantitative finance
+- Learning how AI can support financial analysis
 
 ## 📊 My Portfolio
 
@@ -23,13 +26,13 @@ Welcome to my portfolio, where I document my [projects and case studies](https:/
 
 - **Financial Analysis:** Advanced Excel (Pivot Tables, XLOOKUP, Financial Modelling, Charting)
 - **Business Intelligence:** Power BI (DAX, Data Modelling, Interactive Dashboards)
-- **Focus Areas:** Financial Analysis, Quantitative Analysis, Decision Support, Case Studies
-- **Currently Learning:** SQL, Python,C++,deeper financial theory
+- **Focus Areas:** Quantitative Finance, Risk Management, AI, Financial Analysis
+- **Currently Learning:** SQL, Python, C++, deeper financial theory
 
 ---
-## 📱Social Media 
 
--[LinkedIn](https://www.linkedin.com/in/ayush-agarwal-9270672bb/)
+## 📱 Social Media
 
+- [LinkedIn](https://www.linkedin.com/in/ayush-agarwal-9270672bb/)
 
-*ACCA Student | Finance & Quant Enthusiast | Building practical financial analysis skills*
+*Quant-Focused | AI · Finance · Risk Management · Quantitative Finance*
